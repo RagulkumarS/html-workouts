@@ -1,0 +1,9 @@
+git status - to check the status
+
+git add - to add the file
+ 
+ git add filename- add one file
+ 
+ git add . - add all file 
+ 
+ user name:https://github.com/RagulkumarS/html-workouts.git
